@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Power_Supply_HV.PcbDoc   19.09.2023  11:56:36
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Power_Supply_HV.TXT
+ASCII RectHoles File : Power_Supply_HV-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             120       PTH        576.90mm (22.71inch)
+T2      0.7mm (28mil)                                             Round             2         PTH        2.50mm (0.10inch)
+T3      0.8mm (31mil)                                             Round             2         PTH        5.00mm (0.20inch)
+T4      1mm (39mil)                                               Rectangle         3         PTH        29.18mm (1.15inch)
+T5      3.2mm (126mil)                                            Round             6         PTH        109.67mm (4.32inch)
+T6      6.4mm (252mil)                                            Round             4         PTH        181.85mm (7.16inch)
+T7      9mm (354mil)                                              Round             1         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              138
+
+Total Processing Time (hh:mm:ss) : 00:00:00

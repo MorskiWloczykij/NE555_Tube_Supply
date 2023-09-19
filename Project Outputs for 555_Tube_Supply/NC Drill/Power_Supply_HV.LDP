@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ep18810\Documents\Prywatne\Altium\GIT\555_Tube_Supply\Power_Supply_HV.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=power_supply_hv.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=power_supply_hv-rectholes.txt|DrillLayers=gtl,gbl
